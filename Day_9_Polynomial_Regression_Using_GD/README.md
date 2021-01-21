@@ -6,3 +6,6 @@ This is the convergence of loss as we increase the number of iterations
 The fitted line for the quadratic model and given points is : 
 
 <img src= "Images/Quadratic_fitted_line.png" width = "500">
+
+## Does this have multicolleniarity issue ? 
+
